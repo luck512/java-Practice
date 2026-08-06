@@ -12,7 +12,7 @@ public class FindMinimim {
 
             }
         }
-        System.out.println(min);
+        System.out.println( "The Minimum Number is " + min);
     }
 }
 
