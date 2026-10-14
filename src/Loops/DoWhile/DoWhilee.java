@@ -2,13 +2,14 @@ package Loops.DoWhile;
 
 public class DoWhilee {
     public static void main(String[] args){
-        int num=10;
+        int num=1;
         do{
-            System.out.println("hello");
+            System.out.println(num);
+            num++;
+
 
         }
-        while(num<=10) ;
-
+        while(num<=45) ;
 
 
     }

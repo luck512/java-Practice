@@ -5,7 +5,7 @@ public class BankingApplication {
     public static void main(String[] args) {
 
         Scanner sc=new Scanner(System.in);
-        double balance=1000;
+        double balance=100000;
         int choice;
         while(true){
             System.out.println("1. Check Balance");

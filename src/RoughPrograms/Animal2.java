@@ -7,7 +7,7 @@ class Animal3{
 
     public void ShowDetails(){
         System.out.println("No Of Eyes:" + Eyes);
-        System.out.println("The Name Of The Animal:" + name);
+        System.out.println("The Name Of The Animal1:" + name);
         System.out.println("The color of Eyes Is :" + Color);
     }
 

@@ -2,7 +2,7 @@ package Statements;
 
 public class CheckCondition {
     public static void main(String[] args){
-        if(true || false){
+        if(true || true){
             System.out.println("x");
         }
         else{
